@@ -3,8 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-munhoz-teixeira-2918ab234/)
 
 
-![duhdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhdev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duhdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![duhdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhdev&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duhdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias:
 
 <div style="display: ineline_block"><br/>
